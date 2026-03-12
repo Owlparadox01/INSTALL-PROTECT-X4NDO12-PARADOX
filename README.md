@@ -1,1 +1,1 @@
-# INSTALL-PROTECT-X4NDO12-PARADOX
+# installprotect
